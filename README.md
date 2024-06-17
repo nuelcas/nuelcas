@@ -8,7 +8,7 @@
 ## About me
 
 <!-- TO DO: change the profile picture -->
-Hi, I'm Cas. A web developer and educationist.
+Hi, I'm Cas. A Web Developer and Technical Writer.
 
 <details open>
   <summary>My Top Ranked Languages</summary>
